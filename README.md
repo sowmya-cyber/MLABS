@@ -6,7 +6,7 @@ Execution environment - Google Colab.
 
 Dataset- Upload the ex_dataset (1) file in Google Drive and paste the path for the execution.
 
-The main code is uploaded in MLABsios.ipynb.
+The main code is uploaded in MLABsios.ipynb.The comment is included in the document named COMMENTS.docx
 
 For evaluation purposes, the regression algorithms are considered. The project aims to find the MSE rate 
 
